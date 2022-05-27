@@ -2,8 +2,7 @@
 
 ## Running the project locally
 
-Install [this link]([https://www.python.org/downloads]) Use **python** and **npm install** to install the project's dependencies on server and web folders.
-Next, start the front-end on web folder.
+Install [this link]([https://www.python.org/downloads]) Use **python** and **pip** to install the project's dependencies.
 
 ```cl
  pip install pandas
