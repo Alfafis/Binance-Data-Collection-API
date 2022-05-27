@@ -1,4 +1,4 @@
-## Binance-Data-Collection-API
+# Binance-Data-Collection-API
 
 ## Running the project locally
 
